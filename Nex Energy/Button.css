@@ -1,0 +1,11 @@
+.botao-ver-economia {
+    background-color: #6dff95;
+    border-radius: 10px;
+    color: #141414;
+    padding: 20px 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.75;
+}
